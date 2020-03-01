@@ -16,6 +16,6 @@ if y>0 {
 } else {
     z = 0
 }
-print(z)
+print(z + 1)
 
 //: [Next](@next)
