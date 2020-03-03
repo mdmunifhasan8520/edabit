@@ -1,6 +1,11 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <playground version='6.0' target-platform='ios' display-mode='raw'>
     <pages>
+        <page name='Problem 20'/>
+        <page name='Problem 19'/>
+        <page name='Problem 18'/>
+        <page name='Problem 17'/>
+        <page name='Problem 16'/>
         <page name='Problem 15'/>
         <page name='Problem 14'/>
         <page name='Problem 13'/>
@@ -16,5 +21,6 @@
         <page name='Problem 3'/>
         <page name='Problem 2'/>
         <page name='Test'/>
+        <page name='Solution Template'/>
     </pages>
 </playground>
